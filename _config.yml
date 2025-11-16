@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/63585(1).jpg"
+  avatar           : "profile.png"
   name             : "Ashik Abdullah Chowdhury"
   pronouns         : # example: "she/her"  
   bio              : "Forestry Graduate | GIS Enthusiast"
