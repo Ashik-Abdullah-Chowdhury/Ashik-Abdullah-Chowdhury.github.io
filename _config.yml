@@ -48,14 +48,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Ashik-Abdullah-Chowdhury"
+  github           : "Ashik-Abdullah-Chowdhury"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : "Ashik Abdullah"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Ashik Abdullah Chowdhury"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
