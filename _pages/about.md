@@ -7,9 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# About Me
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I’m **Ashik Abdullah**, and I work at the intersection of remote sensing, environmental science, and geospatial analysis. My academic and research journey focuses on understanding how landscapes, ecosystems, and human activities interact, and how satellite data can help us make better decisions for the environment.
+
+My research mainly involves using **Google Earth Engine (GEE)**, GIS, and satellite imagery to study environmental change. I enjoy exploring patterns in air quality, surface water dynamics, flooding, habitat risk, and long-term land-use transitions. My goal is to translate complex geospatial data into insights that support research, conservation, and policy-making in Bangladesh.
+
+I enjoy working with tools like GEE, QGIS, Python, and other remote sensing platforms, and I am continuously learning new methods for spatial analysis and environmental modeling.
+
+Beyond research, I care deeply about practical environmental impact—combining scientific analysis with community engagement and on-ground conservation activities. I hope to continue growing in the fields of remote sensing, environmental monitoring, and conservation planning, and to contribute to work that supports a more resilient future for Bangladesh.
+
 
 A data-driven personal website
 ======
