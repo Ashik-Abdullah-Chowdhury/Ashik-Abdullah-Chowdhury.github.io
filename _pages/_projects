@@ -8,9 +8,8 @@ author_profile: true
 
 <ul>  {% include base_path %}
 {% for item in site.projects %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
-</ul>
+  {% include archive-single.html %}
+{% endfor %}  </ul>
 
 # this page is my project
 
