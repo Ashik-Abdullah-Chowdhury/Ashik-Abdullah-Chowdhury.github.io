@@ -1,5 +1,5 @@
 ---
-title: "Project 1"
+title: "Geocoding Lab Project 1"
 collection: projects
 excerpt: "See the details of this project"
 ---
