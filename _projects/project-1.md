@@ -14,3 +14,4 @@ This project contains a comparative analysis of supervised and unsupervised clas
 **Detailed Report:** A comprehensive PDF report outlining methodology, findings, and conclusions.[Click here to see the pdf](supervised_vs_unsupervised2.pdf)  
 
 
+[Click here to see the pdf](supervised_vs_unsupervised2.pdf) 
