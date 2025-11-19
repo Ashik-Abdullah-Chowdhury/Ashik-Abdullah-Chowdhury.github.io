@@ -7,9 +7,18 @@ author_profile: true
 
 # this page is my project
 
-<!-- {% include base_path %}
-{% for item in site.projects %}
+{% include base_path %}
+<!-- {% for item in site.projects %}
   {% include archive-single.html type="grid" %}
-{% endfor %} -->
+{% endfor %} --> -->
+<!-- ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+--- -->
 
+<!-- {% include base_path %} -->
 
