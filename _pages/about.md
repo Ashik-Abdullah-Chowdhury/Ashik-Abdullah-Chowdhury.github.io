@@ -11,7 +11,7 @@ redirect_from:
 ## **Student Life**  
 I am a student of the University of Chittagong, currently in the final stage of my B.Sc. (Hons) in Forestry and Environmental Science at the Institute of Forestry and Environmental Sciences. My undergraduate journey has been shaped by a combination of coursework, field activities, and hands-on academic experiences that helped me build a strong foundation in forestry, environmental science, and geospatial analysis. As I approach the end of my degree, I continue to engage deeply with research, collaborative projects, and practical learning that connect classroom knowledge with real-world environmental challenges.
 
-During my undergraduate years, I built a strong foundation in ecology, conservation, and environmental assessment, while gradually discovering my passion for **remote sensing and GIS**. Fieldwork and coursework helped me understand landscapes through spatial data and analytical tools, and I became deeply interested in how environmental changes can be measured and visualized.
+During my undergraduate years, I tried to build a strong foundation in ecology, conservation, and environmental assessment, while gradually discovering my passion for **remote sensing and GIS**. Fieldwork and coursework helped me understand landscapes through spatial data and analytical tools, and I became deeply interested in how environmental changes can be measured and visualized.
 
 Outside the classroom, I remained active in community and volunteer work, including plantation programs, cleanup initiatives, and leadership roles in groups like **BNCC** and the **LEO Club of Chattogram City**. These experiences strengthened my discipline, teamwork, and commitment to environmental stewardship.
 
@@ -22,7 +22,7 @@ As I progressed in my studies, I became increasingly drawn to the analytical sid
 
 I began working extensively with tools like **Google Earth Engine**, QGIS, and InVEST, discovering how geospatial analysis can answer complex environmental questions. My research now focuses on land-use dynamics, habitat quality, and environmental pressures in Bangladesh.
 
-Currently, I am conducting research on **Suitability assessment of reservoirs in Halda Watershed**, using geospatial data to understand how human activities influence natural habitats.
+Currently, I am conducting research on **Suitability assessment of reservoirs in Halda Watershed**, using geospatial data to discover the suitable reservoirs which can supply water to agricultural fields.
 
 ---
 
