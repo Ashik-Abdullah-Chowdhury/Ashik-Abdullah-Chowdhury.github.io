@@ -9,16 +9,35 @@ redirect_from:
 
 # About Me
 
-I’m **Ashik Abdullah**, and I work at the intersection of remote sensing, environmental science, and geospatial analysis. My academic and research journey focuses on understanding how landscapes, ecosystems, and human activities interact, and how satellite data can help us make better decisions for the environment.
+## **Student Life**  
+I am a student of the University of Chittagong, currently in the final stage of my B.Sc. (Hons) in Forestry and Environmental Science at the Institute of Forestry and Environmental Sciences. My undergraduate journey has been shaped by a combination of coursework, field activities, and hands-on academic experiences that helped me build a strong foundation in forestry, environmental science, and geospatial analysis. As I approach the end of my degree, I continue to engage deeply with research, collaborative projects, and practical learning that connect classroom knowledge with real-world environmental challenges.
 
-My research mainly involves using **Google Earth Engine (GEE)**, GIS, and satellite imagery to study environmental change. I enjoy exploring patterns in air quality, surface water dynamics, flooding, habitat risk, and long-term land-use transitions. My goal is to translate complex geospatial data into insights that support research, conservation, and policy-making in Bangladesh.
+During my undergraduate years, I built a strong foundation in ecology, conservation, and environmental assessment, while gradually discovering my passion for **remote sensing and GIS**. Fieldwork and coursework helped me understand landscapes through spatial data and analytical tools, and I became deeply interested in how environmental changes can be measured and visualized.
 
-I enjoy working with tools like GEE, QGIS, Python, and other remote sensing platforms, and I am continuously learning new methods for spatial analysis and environmental modeling.
+Outside the classroom, I remained active in community and volunteer work, including plantation programs, cleanup initiatives, and leadership roles in groups like **BNCC** and the **LEO Club of Chattogram City**. These experiences strengthened my discipline, teamwork, and commitment to environmental stewardship.
 
-Beyond research, I care deeply about practical environmental impact—combining scientific analysis with community engagement and on-ground conservation activities. I hope to continue growing in the fields of remote sensing, environmental monitoring, and conservation planning, and to contribute to work that supports a more resilient future for Bangladesh.
+---
+
+## **My Interest in Research**  
+As I progressed in my studies, I became increasingly drawn to the analytical side of environmental science—especially using satellite data to interpret real-world ecological changes. This led to a strong interest in **remote sensing, GIS, and geospatial modeling**.
+
+I began working extensively with tools like **Google Earth Engine**, QGIS, and InVEST, discovering how geospatial analysis can answer complex environmental questions. My research now focuses on land-use dynamics, habitat quality, and environmental pressures in Bangladesh.
+
+Currently, I am conducting research on **habitat risk modeling in Kaptai National Park**, using geospatial data to understand how human activities influence natural habitats. I am also preparing a study on **land-use change and its impact on carbon emissions and water quality in the Halda River Basin**. These projects reflect my broader goal of using geospatial technologies to support conservation planning, environmental monitoring, and evidence-based decision-making.
+
+---
+
+## **My Skills**  
+Over time, I have developed a strong set of technical and analytical skills centered around geospatial tools and environmental data analysis. I work confidently with **Google Earth Engine**, QGIS, and InVEST for land-use classification, habitat modeling, and environmental change detection. I also write scripts in **JavaScript for GEE** and am gradually expanding my skills in **R** for statistical analysis.
+
+In addition to geospatial proficiency, I am skilled in scientific writing, data management, and research documentation using **MS Office, SPSS, and Zotero**. Through specialized trainings—such as satellite-based flood mapping and big-data analysis for water applications—I have gained the ability to approach environmental problems from technical, analytical, and ecological perspectives.
+
+These skills allow me to combine environmental understanding with modern geospatial methods to produce meaningful, data-driven insights.
 
 
-A data-driven personal website
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -60,4 +79,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
