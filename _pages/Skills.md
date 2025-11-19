@@ -6,7 +6,6 @@ author_profile: true
 
 ---
 
-Technical Skills
 ======
 * GIS & Remote Sensing Tools: Google Earth Engine, InVEST, QGIS
 * Programming & Scripting: JavaScript , Python (learning)
