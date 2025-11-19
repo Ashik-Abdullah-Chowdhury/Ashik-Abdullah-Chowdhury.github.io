@@ -13,3 +13,4 @@ This project contains a comparative analysis of supervised and unsupervised clas
 **Comparative Analysis:** Direct comparison of the performance and outputs of supervised vs. unsupervised classification.    
 **Detailed Report:** A comprehensive PDF report outlining methodology, findings, and conclusions.[Click here to see the pdf](supervised_vs_unsupervised2.pdf)  
 
+[text](supervised_vs_unsupervised2.pdf)
