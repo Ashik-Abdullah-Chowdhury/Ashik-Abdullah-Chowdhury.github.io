@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
 
 ## **Student Life**  
 I am a student of the University of Chittagong, currently in the final stage of my B.Sc. (Hons) in Forestry and Environmental Science at the Institute of Forestry and Environmental Sciences. My undergraduate journey has been shaped by a combination of coursework, field activities, and hands-on academic experiences that helped me build a strong foundation in forestry, environmental science, and geospatial analysis. As I approach the end of my degree, I continue to engage deeply with research, collaborative projects, and practical learning that connect classroom knowledge with real-world environmental challenges.
@@ -19,18 +18,18 @@ Outside the classroom, I remained active in community and volunteer work, includ
 ---
 
 ## **My Interest in Research**  
-As I progressed in my studies, I became increasingly drawn to the analytical side of environmental science—especially using satellite data to interpret real-world ecological changes. This led to a strong interest in **remote sensing, GIS, and geospatial modeling**.
+As I progressed in my studies, I became increasingly drawn to the analytical side especially using satellite data to interpret real-world ecological changes. This led to a strong interest in **remote sensing, GIS, and geospatial modeling**.
 
 I began working extensively with tools like **Google Earth Engine**, QGIS, and InVEST, discovering how geospatial analysis can answer complex environmental questions. My research now focuses on land-use dynamics, habitat quality, and environmental pressures in Bangladesh.
 
-Currently, I am conducting research on **habitat risk modeling in Kaptai National Park**, using geospatial data to understand how human activities influence natural habitats. I am also preparing a study on **land-use change and its impact on carbon emissions and water quality in the Halda River Basin**. These projects reflect my broader goal of using geospatial technologies to support conservation planning, environmental monitoring, and evidence-based decision-making.
+Currently, I am conducting research on **Suitability assessment of reservoirs in Halda Watershed**, using geospatial data to understand how human activities influence natural habitats.
 
 ---
 
 ## **My Skills**  
-Over time, I have developed a strong set of technical and analytical skills centered around geospatial tools and environmental data analysis. I work confidently with **Google Earth Engine**, QGIS, and InVEST for land-use classification, habitat modeling, and environmental change detection. I also write scripts in **JavaScript for GEE** and am gradually expanding my skills in **R** for statistical analysis.
+Over time, I am trying to develop a strong set of technical and analytical skills centered around geospatial tools and environmental data analysis. I work confidently with **Google Earth Engine**, QGIS, and InVEST for land-use classification, habitat modeling, and environmental change detection. I also write scripts in **JavaScript for GEE** and am gradually expanding my skills in **Python** for statistical analysis.
 
-In addition to geospatial proficiency, I am skilled in scientific writing, data management, and research documentation using **MS Office, SPSS, and Zotero**. Through specialized trainings—such as satellite-based flood mapping and big-data analysis for water applications—I have gained the ability to approach environmental problems from technical, analytical, and ecological perspectives.
+In addition to geospatial proficiency, I am trying to be skilled in scientific writing, data management, and research documentation using **MS Office, SPSS, and Zotero**. Through specialized trainings—such as satellite-based flood mapping and big-data analysis for water applications—I am gaining the ability to approach environmental problems from technical, analytical, and ecological perspectives.
 
 These skills allow me to combine environmental understanding with modern geospatial methods to produce meaningful, data-driven insights.
 
