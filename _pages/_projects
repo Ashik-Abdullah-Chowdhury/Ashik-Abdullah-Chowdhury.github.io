@@ -7,9 +7,9 @@ author_profile: true
 
 # this page is my project
 
-{% include base_path %}
+<!-- {% include base_path %}
 {% for item in site.projects %}
   {% include archive-single.html type="grid" %}
-{% endfor %}
+{% endfor %} -->
 
 
